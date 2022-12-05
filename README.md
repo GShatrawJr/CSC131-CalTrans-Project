@@ -1,4 +1,4 @@
-
+Resources/PeopleSense Logo.png
 
 People Sense partners with transit agencies to leverage the power of IoT sensors, machine learning, and data visualizations to bring the transit network to life using real time data, GPS maps, and historical time series data.  This gives our partners a living picture of their network that can be used to make vital decisions about resource management and network usage. Our goal is to use our system to turn our partners’ networks into smart devices that serve their customers, while generating and serving data back to the operators making those key decisions.
 
