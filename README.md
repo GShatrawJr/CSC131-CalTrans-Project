@@ -1,5 +1,7 @@
 ![Logo](https://github.com/GShatrawJr/CSC131-CalTrans-Project/blob/a6ff61eb07f03abcc1cef30f093efeb5f0c5a77c/Resources/PeopleSense%20Logo.png)
 
+![GitHub contributors](https://img.shields.io/github/contributors/GShatrawJr/CSC131-CalTrans-Project)
+
 People Sense partners with transit agencies to leverage the power of IoT sensors, machine learning, and data visualizations to bring the transit network to life using real time data, GPS maps, and historical time series data.  This gives our partners a living picture of their network that can be used to make vital decisions about resource management and network usage. Our goal is to use our system to turn our partners’ networks into smart devices that serve their customers, while generating and serving data back to the operators making those key decisions.
 
 Download and install VirtualBox https://www.virtualbox.org/wiki/Downloads
