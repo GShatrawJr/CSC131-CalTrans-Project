@@ -28,18 +28,31 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 	    
             	i.	Choices (top to bottom): Line Chart, Bar Chart, Gauge
 4.	Choosing a chart creates an empty panel.
-      a.	Empty Panel
-5.	Users use the Right Side Panel to configure their chose chart
-      a.	Super Admins can Change Agency using the Agency Dropdown
-            i.	Agency Dropdown
-      b.	 The Train Dropdown selects the train to show in the unconfigured panel, filtered by the route selector to the right of the dropdown, which differs based on agency route groupings.
-            i.	Trains Dropdown
-      c.	The User can change how often the panel updates its data using the Refresh Rate dropdown
-            i.	Refresh Rate Dropdown
-      d.	The middle Button on the Left Side Pill creates an empty Map
-            i.	Empty Map
-      e.	The User then uses he Right Side Panel to configure the map, just as with a chart.
-            i.	Configured Map
+	
+	    a.	Empty Panel
+
+5.	Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
+	
+	    a.	Super Admins can Change Agency using the Agency Dropdown
+	    
+            	i. Agency Dropdown
+	
+	    b.	The Train Dropdown selects the train to show in the unconfigured panel, filtered by the route selector to the right of the dropdown, which differs based on agency route groupings.
+	    
+            	i. Trains Dropdown
+		
+	    c.	The User can change how often the panel updates its data using the Refresh Rate dropdown
+	    
+            	i. Refresh Rate Dropdown
+		
+    	    d.	The middle Button on the Left Side Pill creates an empty Map
+	    
+            	i. Empty Map
+		
+    	    e.	The User then uses he Right Side Panel to configure the map, just as with a chart.
+	    
+            	i. Configured Map	
+      
 6.	They can create multiple charts, move them, resize them, and the PeopleSense 2.0 Dashboard will save their layout between log in sessions, so they can resume where they left off without having to reconfigure their dashboard. <img src="/diagram/Sample Filled Dashboard.png"/>
 
 
