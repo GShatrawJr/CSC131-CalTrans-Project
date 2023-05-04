@@ -28,11 +28,12 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
     * Blank Dashboard  
     <img src="/diagram/Sample Empty Dashboard.png"/>
 3. Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
-    * Side Pill, Top icon chooses Chart Maker  <img src="/diagram/Left Side Pill.png"/>  
-    * 
+    * Side Pill  
+    <img src="/diagram/Left Side Pill.png"/>  
+4. Choosing the top icon opens the Chart Maker.
     * Chart Choices(top to bottom): Line Chart, Bar Chart, Gauge  
     <img src="diagram/Chart Creator.png"/>  
-4. Choosing a chart creates an empty panel.
+5. Choosing a chart creates an empty panel.
     * Empty Panel  
     <img src="/diagram/Blank Chart.png"/>
 
