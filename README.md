@@ -31,7 +31,7 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
     * Side Pill, Top icon chooses Chart Maker  
     <img src="/diagram/Left Side Pill.png"/>  
     * Chart Choices(top to bottom): Line Chart, Bar Chart, Gauge  
-    <img src="diagram/Chart Creator.png"/>
+    <img src="diagram/Chart Creator.png"/>  
 4. Choosing a chart creates an empty panel.
     * Empty Panel  
     <img src="/diagram/Blank Chart.png"/>
