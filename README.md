@@ -48,9 +48,30 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 2.	The PeopleSense Dashboard 2.0 (this project) software queries the PeopleSense API on an interval set by the user per chart to retrieve data, current or historical based on user settings and chart type, regarding train occupancy as well as latitude and longitude information used to plot the location of the train on the Google Map API panel.  
 3.	The data is then pushed to Influx which is housed in a Docker container for ease of deployment and portability.  
 4.	Lastly, the PeopleSense Dashboard 2.0 front end will access and display various charts in the dashboard tiles for an improved user experience.
-5.	Users are restricted by their access through their assigned user group.  <img src="/diagram/Sample Empty Dashboard.png"/>
-6.	Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane. 
-7.	They can create multiple charts, move them, resize them, and the PeopleSense 2.0 Dashboard will save their layout between log in sessions, so they can resume where they left off without having to reconfigure their dashboard. <img src="/diagram/Sample Filled Dashboard.png"/>
+
+# User Experience
+
+1.	Users use the Log in Page to create their account, log in with an existing account, or in the case of a forgotten password to begin the recovery process, or Continue as Guest with limited access to only current capacities.
+a.	PeopleSense Dashboard 2.0 Home Page
+2.	Users are restricted by their access through their assigned user group, and start with a blank Dashboard.
+a.	Blank Dashboard  <img src="/diagram/Sample Empty Dashboard.png"/>
+3.	Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
+a.	Side Pill
+i.	Choices (top to bottom): Line Chart, Bar Chart, Gauge
+4.	Choosing a chart creates an empty panel.
+a.	Empty Panel
+5.	Users use the Right Side Panel to configure their chose chart
+a.	Super Admins can Change Agency using the Agency Dropdown
+i.	Agency Dropdown
+b.	 The Train Dropdown selects the train to show in the unconfigured panel, filtered by the route selector to the right of the dropdown, which differs based on agency route groupings.
+i.	Trains Dropdown
+c.	The User can change how often the panel updates its data using the Refresh Rate dropdown
+i.	Refresh Rate Dropdown
+d.	The middle Button on the Left Side Pill creates an empty Map
+i.	Empty Map
+e.	The User then uses he Right Side Panel to configure the map, just as with a chart.
+i.	Configured Map
+6.	They can create multiple charts, move them, resize them, and the PeopleSense 2.0 Dashboard will save their layout between log in sessions, so they can resume where they left off without having to reconfigure their dashboard. <img src="/diagram/Sample Filled Dashboard.png"/>
 
 
 
@@ -63,4 +84,4 @@ To use, first ensure you have Python 3.10 or later installed, along with the `bl
 
 <img src="/diagram/timeline.png"/>
 
-# Testing (Comming Soon!)
+# Testing (Coming Soon!)
