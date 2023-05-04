@@ -17,6 +17,7 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 # User Experience
 
 1.	Users use the Log in Page to create their account, log in with an existing account, or in the case of a forgotten password to begin the recovery process, or Continue as Guest with limited access to only current capacities.
+
 	    a.	PeopleSense Dashboard 2.0 Home Page
 2.	Users are restricted by their access through their assigned user group, and start with a blank Dashboard.
 	    a.	Blank Dashboard  <img src="/diagram/Sample Empty Dashboard.png"/>
