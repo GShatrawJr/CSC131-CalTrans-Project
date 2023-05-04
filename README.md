@@ -27,7 +27,7 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
     * <img src="/diagram/Log In Page.png"/>
 3. Users are restricted by their access through their assigned user group, and start with a blank Dashboard.
     * Blank Dashboard  
-    * <img src="/diagram/Sample Empty Dashboard.png"/>
+    <img src="/diagram/Sample Empty Dashboard.png"/>
 
 
 1. </br>
