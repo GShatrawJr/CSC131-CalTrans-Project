@@ -8,7 +8,7 @@
     2. The Train Dropdown selects the train to show in the unconfigured panel, filtered by the route selector to the right of the dropdown, which differs based on agency route groupings.  
         ![Train Dropdown](/diagram/Chart Configuration Trains.png)
     3. The User can change how often the panel updates its data using the Refresh Rate dropdown.  
-        ![Refresh Rate Dropdown](/diagram/Chart Configuration Refresh.png)
+        ![Refresh Rate Dropdown]<img src="/diagram/Chart Configuration Refresh.png"/>
     4. The middle Button on the Left Side Pill creates an empty Map.  
         ![Empty Map Button](/diagram/Map Unconfigured.png)
     5. The User then uses the Right Side Panel to configure the map, just as with a chart.  
