@@ -47,7 +47,7 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 4. Choosing the top icon opens the Chart Maker.
     * Chart Choices(top to bottom): Line Chart, Bar Chart, Gauge  
     <img src="diagram/Chart Creator.png"/>  
-5. Choosing a chart creates an empty panel.
+5. Users use the Right Side Panel to configure their chose chart.
     * Empty Panel  
     <img src="/diagram/Blank Chart.png"/>
 6. Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
