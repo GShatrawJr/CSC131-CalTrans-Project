@@ -37,7 +37,8 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 	    
             	i. Agency Dropdown
 	
-	    b.	The Train Dropdown selects the train to show in the unconfigured panel, filtered by the route selector to the right of the dropdown, which differs based on agency route groupings.
+	    b.	The Train Dropdown selects the train to show in the unconfigured panel, filtered by the route selector to the right of the dropdown, 
+	    	which differs based on agency route groupings.
 	    
             	i. Trains Dropdown
 		
