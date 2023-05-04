@@ -70,13 +70,13 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
     1. Super Admins can Change Agency using the Agency Dropdown  
     	  <img src="/diagram/Chart Configuration Agency.png"/>
     2. The Train Dropdown selects the train to show in the unconfigured panel, filtered by the route selector to the right of the dropdown, which differs based on agency route groupings.
-	  <img src="/diagram/Chart Configuration Trains.png"/>  
+	  <img src="/diagram/Chart Configuration Trains.png"/>
     3. The User can change how often the panel updates its data using the Refresh Rate dropdown.  
-    	  <img src="/diagram/Chart Configuration Refresh.png"/>  
+    	  <img src="/diagram/Chart Configuration Refresh.png"/>
     4. The middle Button on the Left Side Pill creates an empty Map.  
-    	  <img src="/diagram/Map Unconfigured.png"/>  
+    	  <img src="/diagram/Map Unconfigured.png"/>
     5. The User then uses he Right Side Panel to configure the map, just as with a chart.  
-    	  <img src="/diagram/Map Configured.png"/>  
+    	  <img src="/diagram/Map Configured.png"/>
 7. They can create multiple charts, move them, resize them, and the PeopleSense 2.0 Dashboard will save their layout between log in sessions, so they can resume where they left off without having to reconfigure their dashboard.
     * Configured Dashboard  
     <img src="/diagram/Sample Filled Dashboard.png"/>    	
