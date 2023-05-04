@@ -64,40 +64,6 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 7. They can create multiple charts, move them, resize them, and the PeopleSense 2.0 Dashboard will save their layout between log in sessions, so they can resume where they left off without having to reconfigure their dashboard.
     * Configured Dashboard  
     <img src="/diagram/Sample Filled Dashboard.png"/>    	
-	
-
-    
-
-
-	    
-            	i.	Choices (top to bottom): Line Chart, Bar Chart, Gauge <img src="diagram/Chart Creator.png"/>
-4.	
-	
-	    a.	
-
-5.	
-	
-	    a.	
-	    
-            	i. Agency Dropdown
-	
-	    b.	The Train Dropdown selects the train to show in the unconfigured panel, and changes based on agency route groupings.
-	    
-            	i. Trains Dropdown
-		
-	    c.	The User can change how often the panel updates its data using the Refresh Rate dropdown
-	    
-            	i. Refresh Rate Dropdown
-		
-    	    d.	The middle Button on the Left Side Pill creates an empty Map
-	    
-            	i. Empty Map
-		
-    	    e.	The User then uses he Right Side Panel to configure the map, just as with a chart.
-	    
-            	i. Configured Map	
-      
-6.	They can create multiple charts, move them, resize them, and the PeopleSense 2.0 Dashboard will save their layout between log in sessions, so they can resume where they left off without having to reconfigure their dashboard. <img src="/diagram/Sample Filled Dashboard.png"/>
 
 
 
