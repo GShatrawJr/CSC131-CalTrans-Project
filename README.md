@@ -18,15 +18,15 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 
 1.	Users use the Log in Page to create their account, log in with an existing account, or in the case of a forgotten password to begin the recovery process, or Continue as Guest with limited access to only current capacities.
 
-	    a.	PeopleSense Dashboard 2.0 Home Page
+	    a.	PeopleSense Dashboard 2.0 Home Page <img src="/diagram/Log In Page.png"/>
 2.	Users are restricted by their access through their assigned user group, and start with a blank Dashboard.
 	
 	    a.	Blank Dashboard  <img src="/diagram/Sample Empty Dashboard.png"/>
 3.	Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
 	
-	    a.	Side Pill
+	    a.	Side Pill <img src="/diagram/Left Side Pill.png"/>
 	    
-            	i.	Choices (top to bottom): Line Chart, Bar Chart, Gauge
+            	i.	Choices (top to bottom): Line Chart, Bar Chart, Gauge <img src="/diagram/Chart Creator.png"/>
 4.	Choosing a chart creates an empty panel.
 	
 	    a.	Empty Panel
