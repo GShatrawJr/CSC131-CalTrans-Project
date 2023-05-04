@@ -47,12 +47,15 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 4. Choosing the top icon opens the Chart Maker.
     * Chart Choices(top to bottom): Line Chart, Bar Chart, Gauge  
     <img src="diagram/Chart Creator.png"/>  
-5. Users use the Right Side Panel to configure their chose chart.
+5. Choices (top to bottom): Line Chart, Bar Chart, Gauge. Picking one opens an empty panel.
     * Empty Panel  
     <img src="/diagram/Blank Chart.png"/>
-6. Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
-    * Super Admins can Change Agency using the Agency Dropdown  
-    <img src="/diagram/Blank Chart.png"/>
+6. Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Ride Side Panel.
+    1. Super Admins can Change Agency using the Agency Dropdown  
+    	*<img src="/diagram/Chart Configuration Agency.png"/>
+    2. The Train Dropdown selects the train to show in the unconfigured panel, filtered by the route selector to the right of the dropdown, which differs based on agency route groupings.
+    	*<img src="/diagram/Chart Configuration Trains.png"/>
+    
 
 
 	    
