@@ -21,34 +21,28 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 # User Experience
 
 
-1. 
-2. Users use the Log in Page to create their account, log in with an existing account, or in the case of a forgotten password to begin the recovery process, or Continue as Guest with limited access to only current capacities.
+1. Users use the Log in Page to create their account, log in with an existing account, or in the case of a forgotten password to begin the recovery process, or Continue as Guest with limited access to only current capacities.
     * PeopleSense Dashboard 2.0 Home Page  
     <img src="/diagram/Log In Page.png"/>
-3. Users are restricted by their access through their assigned user group, and start with a blank Dashboard.
+2. Users are restricted by their access through their assigned user group, and start with a blank Dashboard.
     * Blank Dashboard  
     <img src="/diagram/Sample Empty Dashboard.png"/>
+3. Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
+    * Side Pill, Top icon chooses Chart Maker  
+    <img src="/diagram/Left Side Pill.png"/>
+    * Chart Choices(top to bottom): Line Chart, Bar Chart, Gauge  
+    <img src="diagram/Chart Creator.png"/>
+4. Choosing a chart creates an empty panel.
+    * Empty Panel  
+    <img src="/diagram/Blank Chart.png"/>
 
 
-1. </br>
-   -
-    -  
-   -Bullet list item 2  
 
-1.	  
-	  	    	a.	
-	    
-2.	
-	
-	    a.	  
-3.	Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
-	
-	    a.	Side Pill <img src="/diagram/Left Side Pill.png"/>
 	    
             	i.	Choices (top to bottom): Line Chart, Bar Chart, Gauge <img src="diagram/Chart Creator.png"/>
-4.	Choosing a chart creates an empty panel.
+4.	
 	
-	    a.	Empty Panel
+	    a.	
 
 5.	Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
 	
