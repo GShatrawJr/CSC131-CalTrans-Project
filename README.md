@@ -1,6 +1,15 @@
 # PeopleSense-Proj
 ![Project Logo](https://github.com/GShatrawJr/CSC131-CalTrans-Project/blob/a6ff61eb07f03abcc1cef30f093efeb5f0c5a77c/Resources/PeopleSense%20Logo.png)
 
+
+1. Number
+2. Number
+    * Bullet
+    * Bullet
+3. Number
+
+
+
 # Project Description
 The new PeopleSense Dashboard 2.0 website brings train occupancy utilization data from IoT sensors installed on trains through our backend system and brings it to the user in the form of easy-to-read data visualizations: historical time series line charts, bar graphs, gauges, and Maps with GPS location data for each train. With this new powerful visual data system, stakeholders can easily see the utilized capacity of the trains, both in real time and historical data, and use this to make data driven decisions about resource allocation in order to serve the community best with the often too limited resources available. The use of AWS technologies such as Cognito and Amplify allow the client to create and manage separate user groups and access controls for each group.  This ensures that each agency-based user group can only access their own agency data yet allows the client to unify the previously separate proof of concept websites for each agency into a singular powerful more fully featured and robust website, and codebase, for the client to maintain.  This makes adding features, maintaining features, and even adding new agencies far simpler going forward. 
 
@@ -16,7 +25,7 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 
 # User Experience
 
-1. Users use the Log in Page to create their account, log in with an existing account, or in the case of a forgotten password to begin the recovery process, or Continue as Guest with limited access to only current capacities.  
+1. Users use the Log in Page to create their account, log in with an existing account, or in the case of a forgotten password to begin the recovery process, or Continue as Guest with limited access to only current capacities.</br>
    -PeopleSense Dashboard 2.0 Home Page  
     -<img src="/diagram/Log In Page.png"/>  
    -Bullet list item 2  
