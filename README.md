@@ -1,6 +1,20 @@
 # PeopleSense-Proj
 ![Project Logo](https://github.com/GShatrawJr/CSC131-CalTrans-Project/blob/a6ff61eb07f03abcc1cef30f093efeb5f0c5a77c/Resources/PeopleSense%20Logo.png)
 
+1. Level 1 item
+    1. Level 2 item
+        * Level 3 bullet
+        * Level 3 bullet
+            1. Level 4 item
+            2. Level 4 item
+    2. Level 2 item
+        * Level 3 bullet
+        * Level 3 bullet
+2. Another level 1 item
+    1. Level 2 item
+        * Level 3 bullet
+        * Level 3 bullet
+    2. Level 2 item
 
 
 
@@ -36,7 +50,9 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 5. Choosing a chart creates an empty panel.
     * Empty Panel  
     <img src="/diagram/Blank Chart.png"/>
-
+6. Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
+    * Super Admins can Change Agency using the Agency Dropdown  
+    <img src="/diagram/Blank Chart.png"/>
 
 
 	    
@@ -45,9 +61,9 @@ The new PeopleSense Dashboard 2.0 website brings train occupancy utilization dat
 	
 	    a.	
 
-5.	Users can customize the dashboard to see specific trains, time periods, and a train's GPS location on the Google Maps API pane using the Left Side Pill.
+5.	
 	
-	    a.	Super Admins can Change Agency using the Agency Dropdown
+	    a.	
 	    
             	i. Agency Dropdown
 	
